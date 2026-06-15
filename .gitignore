@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# uv cache
+.uv/
+
+# IDE settings
+.idea/
+.vscode/
